@@ -19,6 +19,9 @@
     "icon-size": {
       "type": "integer"
     },
+    "font-size": {
+      "type": "integer"
+    },
     "window": {
       "type": "object",
       "properties": {
